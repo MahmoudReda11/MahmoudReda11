@@ -1,18 +1,19 @@
-<p align="center">Hi 👋, I'm Mahmoud Reda </p>
+<h1 align="center">Hi 👋, I'm Mahmoud Reda </h1>
+<h3 align="center">A passionate Front-End developer from Egypt </h1>
 
 <br />
 
- I'm Front End Developer. I'm passionate about creating beautiful and user-friendly web applications. I'm a quick learner and a creative problem-solver who loves to experiment with new technologies.
- 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+ I'm Front End Developer. I'm passionate about creating beautiful and user-friendly web applications. I'm a quick learner and a creative problem-solver who loves to experiment with new technologies.
+ 
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 💼 FrontEnd Developer
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- ❤️ I love writing JavaScript, and building fun experiments on type-level
+
+- 📫 How to reach me <a href="https://github.com/anuraghazra/github-readme-stats">** redaoda86@gmail.com **</a>
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
