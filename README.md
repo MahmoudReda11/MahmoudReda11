@@ -15,7 +15,7 @@
 
 - 📫 How to reach me <a href="milto:redaoda86@gmail.com" target="_blank">** redaoda86@gmail.com ** </a>
 
-- 📺 My Channel on Youtube : <a href="youtube.com/@happy_code" target="_blank"> Happy Code </a>
+- 📺 My Channel on Youtube : <a href="https://www.youtube.com/@happy_code" target="_blank"> Happy Code </a>
 
 
 <br />
