@@ -1,8 +1,8 @@
-<p align="center">Hello! I'm Mahmoud Reda 👋</p>
+<p align="center">Hi 👋, I'm Mahmoud Reda </p>
 
 <br />
 
- I'm passionate about creating beautiful and user-friendly web applications. I'm a quick learner and a creative problem-solver who loves to experiment with new technologies.
+ I'm Front End Developer. I'm passionate about creating beautiful and user-friendly web applications. I'm a quick learner and a creative problem-solver who loves to experiment with new technologies.
  
 **About me**
 
