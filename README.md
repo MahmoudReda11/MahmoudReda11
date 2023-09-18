@@ -13,16 +13,16 @@
 
 - ❤️ I love writing JavaScript, and building fun experiments on type-level
 
-- 📫 How to reach me <a href="https://github.com/anuraghazra/github-readme-stats">** redaoda86@gmail.com ** </a>
+- 📫 How to reach me <a href="milto:redaoda86@gmail.com">** redaoda86@gmail.com ** </a>
 
-- 📺 My Channel on Youtube : <a href="https://github.com/anuraghazra/github-readme-stats"> Happy Code </a>
+- 📺 My Channel on Youtube : <a href="youtube.com/@happy_code"> Happy Code </a>
 
 
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashrafalimohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafalimohammed" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100007136975513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100007136975513" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-reda-287b88285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafalimohammed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/houdareda.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100007136975513" height="30" width="40" /></a>
 </p>
 
 <br />
