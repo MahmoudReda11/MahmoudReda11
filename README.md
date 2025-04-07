@@ -9,13 +9,15 @@
  
 
 
-- 💼 FrontEnd Developer
-
-- ❤️ I love writing JavaScript, and building fun experiments on type-level
+- 💻 Web Developer | Content Creator
+- 
+- 🎥 YouTube & TikTok: Reda Tech
+- 
+- 📚 Teaching programming the smart way
 
 - 📫 How to reach me <a href="milto:redaoda86@gmail.com" target="_blank">** redaoda86@gmail.com ** </a>
 
-- 📺 My Channel on Youtube : <a href="https://www.youtube.com/@happy_code" target="_blank"> Happy Code </a>
+- 📺 My Channel on Youtube : <a href="https://www.youtube.com/@redatech0" target="_blank">Reda Tech </a>
 
 
 <br />
